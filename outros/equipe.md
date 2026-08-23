@@ -46,7 +46,7 @@ Os **Co-Fundadores** são responsáveis pela direção da Rede Lhama, participan
 **Lista de Co-Fundadores**
 
 * <img src="https://i.ibb.co/rRqnp0g6/image.png" alt="" data-size="line"> **donnico619**
-* **V4lkye\_ /**
+* **V4lkye\_**
 
 
 
