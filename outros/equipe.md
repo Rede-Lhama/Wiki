@@ -15,13 +15,14 @@ Os **Fundadores** são responsáveis pela direção geral e legal da Rede Lhama,
 **Funções**
 
 * [x] Manter o servidor e seus sistemas atualizados;
-* [x] Resolver problemas judiciais e legais no servidor;
+* [x] Resolver questões legais e administrativas da Rede Lhama;
 * [x] Supervisionar o funcionamento geral da Rede Lhama;
 * [x] Auxiliar jogadores através de tickets ou canais de atendimento;
 * [x] Corrigir problemas e bugs relacionados aos sistemas;
 * [x] Coordenar e contratar novos membros para a equipe;
-* [x] Analisar e aprovar sugestões da comunidade;
-* [x] Definir estratégias e objetivos para o desenvolvimento do projeto.
+* [x] Analisar, aprovar e implementar sugestões da comunidade;
+* [x] Definir estratégias e objetivos para o desenvolvimento do projeto;
+* [x] Representar oficialmente a Rede Lhama.
 
 **Lista de Fundadores**
 
@@ -39,7 +40,8 @@ Os **Fundadores** são responsáveis pela direção da Rede Lhama, participando 
 * [x] Corrigir problemas e bugs relacionados aos sistemas;
 * [x] Coordenar e contratar novos membros para a equipe;
 * [x] Analisar e aprovar sugestões da comunidade;
-* [x] Definir estratégias e objetivos para o desenvolvimento do projeto.
+* [x] Definir estratégias e objetivos para o desenvolvimento do projeto;
+* [x] Assumir responsabilidades administrativas quando necessário.
 
 **Lista de Fundadores**
 
