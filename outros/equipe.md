@@ -30,7 +30,7 @@ Os **Fundadores** são responsáveis pela direção geral e legal da Rede Lhama,
 
 ### Co-Fundadores
 
-Os **Fundadores** são responsáveis pela direção da Rede Lhama, participando das principais decisões relacionadas ao desenvolvimento, planejamento, administração e expansão do projeto.
+Os **Co-Fundadores** são responsáveis pela direção da Rede Lhama, participando das principais decisões relacionadas ao desenvolvimento, planejamento, administração e expansão do projeto.
 
 **Funções**
 
@@ -43,10 +43,12 @@ Os **Fundadores** são responsáveis pela direção da Rede Lhama, participando 
 * [x] Definir estratégias e objetivos para o desenvolvimento do projeto;
 * [x] Assumir responsabilidades administrativas quando necessário.
 
-**Lista de Fundadores**
+**Lista de Co-Fundadores**
 
-* **donnico619**
-* **V4lkye\_**
+* <img src="https://i.ibb.co/rRqnp0g6/image.png" alt="" data-size="line"> **donnico619**
+* **V4lkye\_ /**
+
+
 
 ### Coordenador
 
