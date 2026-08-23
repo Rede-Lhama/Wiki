@@ -80,7 +80,7 @@ O **Desenvolvedor** é responsável pela criação, manutenção e evolução do
 
 **Lista de Desenvolvedores**
 
-* **XFlixXz\_**
+* <img src="https://i.ibb.co/GbHBchH/image.png" alt="" data-size="line"> **XFlixXz\_**
 
 ### Administrador
 
