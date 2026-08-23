@@ -1,15 +1,31 @@
-# ✦ WIKI DA REDE LHAMA
+---
+description: Bem vindo à Wiki oficial da Rede Lhama.
+icon: door-open
+---
 
-Bem vindo à **Wiki oficial da Rede Lhama**!
+# Início
 
-Aqui você encontrará informações, guias e conteúdos importantes para conhecer melhor a nossa rede, seus sistemas e tudo o que ela oferece à comunidade.
+Este é o ponto central para encontrar informações, guias e conteúdos importantes sobre a Rede Lhama. Aqui você poderá aprender como funcionam os sistemas da rede, consultar regras, conhecer os recursos disponíveis e encontrar respostas para as suas dúvidas.
 
-✦ **O QUE VOCÊ PODE ENCONTRAR**
+{% hint style="info" %}
+**Começando agora?**
 
-• Regras do Servidor
+Se você acabou de chegar à Rede Lhama, recomendamos explorar esta Wiki antes de começar. Aqui você encontrará informações essenciais para entender a comunidade e aproveitar melhor a sua experiência.
+{% endhint %}
 
-✦ **MANTENHA SE ATUALIZADO**
+### Recomendamos você ver as abas:
 
-A Wiki está em constante desenvolvimento e novos conteúdos poderão ser adicionados ao longo do tempo.
+* #### [Regras da Rede Lhama](importante/regras.md)
+* ####
 
-Antes de abrir uma dúvida ou solicitar ajuda, recomendamos consultar a Wiki. A resposta que você procura pode estar aqui!
+### ✦ Explore a Wiki
+
+Utilize o menu lateral para navegar pelas diferentes categorias e encontrar exatamente o que procura.
+
+> **Dica:** Antes de perguntar algo à equipe, consulte a Wiki. A resposta para a sua dúvida pode estar aqui.
+
+{% hint style="success" %}
+**Wiki em constante evolução**
+
+Novos conteúdos, guias e informações serão adicionados regularmente. Caso encontre alguma informação desatualizada ou incorreta, entre em contato com a equipe da Rede Lhama.
+{% endhint %}
