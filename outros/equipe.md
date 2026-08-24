@@ -65,7 +65,7 @@ O **Coordenador** é responsável pela organização dos processos internos e pe
 
 **Lista de Coordenadores**
 
-* <img src="https://i.ibb.co/WpFBBvhC/image.png" alt="" data-size="line"> **Batistata**
+* <img src="https://i.ibb.co/5hP3kqK6/image.png" alt="" data-size="line"> **Batistata**
 
 ### Desenvolvedor
 
