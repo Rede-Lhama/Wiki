@@ -27,7 +27,7 @@ Os **Fundadores** são responsáveis pela direção geral e legal da Rede Lhama,
 **Lista de Fundadores**
 
 * <img src="https://i.ibb.co/tT7rtPWh/image.png" alt="" data-size="line"> **SIKSzz**
-* **Flare**
+* <img src="https://i.ibb.co/zhWVHfWw/image.png" alt="" data-size="line"> **Flaresp**
 
 ### Co-Fundadores
 
