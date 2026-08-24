@@ -19,15 +19,21 @@ Se você acabou de chegar à Rede Lhama, recomendamos explorar esta Wiki antes d
 
 <a href="importante/clients-e-mods-permitidos.md" class="button secondary" data-icon="triangle-exclamation">Clients e Mods Permitidos</a>
 
-<a class="button primary">Button</a>
+<a href="outros/discord.md" class="button secondary" data-icon="discord">Discord</a>
 
-###
+<a href="ajuda/cores-rgb.md" class="button secondary" data-icon="palette">Cores RGB</a>
+
+
 
 ### ✦ Explore a Wiki
 
 Utilize o menu lateral para navegar pelas diferentes categorias e encontrar exatamente o que procura.
 
 > **Dica:** Antes de perguntar algo à equipe, consulte a Wiki. A resposta para a sua dúvida pode estar aqui.
+
+Utilize a IA para procurar por você! **(BETA)**
+
+<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Faça uma pergunta...</button>
 
 {% hint style="success" %}
 **Wiki em constante evolução**
