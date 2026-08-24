@@ -40,3 +40,4 @@
 
 * [Equipe](outros/equipe.md)
 * [Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
+* [Discord](outros/discord.md)
