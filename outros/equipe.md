@@ -8,7 +8,7 @@ icon: users
 
 # Equipe
 
-### Fundador
+### Fundadores
 
 Os **Fundadores** são responsáveis pela direção geral e legal da Rede Lhama, participando das principais decisões relacionadas ao desenvolvimento, planejamento, administração e expansão do projeto.
 
@@ -27,6 +27,7 @@ Os **Fundadores** são responsáveis pela direção geral e legal da Rede Lhama,
 **Lista de Fundadores**
 
 * <img src="https://i.ibb.co/tT7rtPWh/image.png" alt="" data-size="line"> **SIKSzz**
+* **Flare**
 
 ### Co-Fundadores
 
