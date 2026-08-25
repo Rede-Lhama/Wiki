@@ -12,7 +12,7 @@ icon: globe
 Cada temporada possui uma página própria com informações sobre sua temática, período, acontecimentos, novidades e muito mais.
 {% endhint %}
 
-### 📚 História das Temporadas
+### História das Temporadas
 
 Acompanhe todos os capítulos da Rede Lhama e veja como o servidor evolui ao longo do tempo.
 
