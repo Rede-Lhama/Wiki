@@ -8,31 +8,48 @@ icon: globe
 
 # Temporadas
 
-### História das Temporadas
+## 🏰 Temporadas
 
-Cada temporada representa uma nova fase da Rede Lhama.
+As temporadas representam diferentes capítulos da história da **Rede Lhama**.
 
-Os jogadores poderão acompanhar a evolução do servidor, desde o seu primeiro capítulo até as futuras temporadas que serão construídas junto com a comunidade.
+A cada nova temporada, o servidor poderá receber uma nova temática, sistemas, eventos, desafios e experiências, criando uma nova jornada para toda a comunidade.
 
 {% hint style="info" %}
-Cada temporada possui uma página própria com informações sobre sua temática, período, principais acontecimentos e novidades.
+Cada temporada possui uma página própria com informações sobre sua temática, período, acontecimentos, novidades e muito mais.
 {% endhint %}
 
-### Temporadas
+### 📚 História das Temporadas
 
-#### [Pré-Temporada](pre-temporada.md)
+Acompanhe todos os capítulos da Rede Lhama e veja como o servidor evolui ao longo do tempo.
 
-#### [Temporada I · Medieval](medieval.md)
+#### <i class="fa-pause">:pause:</i>[ Pré Temporada](pre-temporada.md)
 
-A primeira temporada da Rede Lhama e o início da nossa história.
+O período de preparação que antecede uma nova temporada.
+
+#### &#x20; <i class="fa-castle">:castle:</i> [Temporada I · Medieval](medieval.md)
+
+O primeiro capítulo oficial da Rede Lhama.
+
+Uma temporada inspirada na era medieval, marcada pelo início da nossa história e pela construção da primeira grande jornada da comunidade.
 
 **Tema:** Medieval\
+**Capítulo:** I\
 **Status:** 🟢 Em andamento
 
-#### Temporada II
+#### <i class="fa-lock">:lock:</i> Temporada II
 
-Em breve.
+Um novo capítulo será escrito após o encerramento da Temporada I.
 
-#### Temporada III
+**Status:** ⚪ Em breve
 
-Em breve.
+#### <i class="fa-lock">:lock:</i> Temporada III
+
+Mais uma nova fase da história da Rede Lhama.
+
+**Status:** ⚪ Em breve
+
+{% hint style="success" %}
+**Cada temporada deixa uma marca na história da Rede Lhama.**
+
+Explore, evolua, conquiste e faça parte do próximo capítulo.
+{% endhint %}

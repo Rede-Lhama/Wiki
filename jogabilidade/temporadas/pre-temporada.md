@@ -3,7 +3,7 @@ description: >-
   A Pré Temporada é o período que antecede oficialmente o início de uma
   temporada da Rede Lhama. Ela tem como objetivo preparar o servidor, testar
   sistemas, identificar possíveis problemas e permitir qu
-icon: circle-play
+icon: pause
 ---
 
 # Pré-Temporada
@@ -33,8 +33,6 @@ Por se tratar de um período de testes, algumas funcionalidades, configurações
 {% endhint %}
 
 ### Quando começa a nova temporada?
-
-### 📅 Quando começa a nova temporada?
 
 Não existe um **período fixo** para o início de uma nova temporada após a entrada da **Pré-Temporada**.
 
