@@ -24,7 +24,9 @@
 * [Clãs](jogabilidade/clas/README.md)
   * [Liga de Clãs](jogabilidade/clas/liga-de-clas.md)
   * [Punições](jogabilidade/clas/punicoes.md)
-* [Temporadas](jogabilidade/temporadas.md)
+* [Temporadas](jogabilidade/temporadas/README.md)
+  * [Pré-Temporada](jogabilidade/temporadas/pre-temporada.md)
+  * [Temporada Medieval (I) (Atual)](jogabilidade/temporadas/medieval.md)
 * [Anti-Cheat](jogabilidade/anti-cheat.md)
 
 ## Ajuda
