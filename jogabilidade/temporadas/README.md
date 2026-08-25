@@ -8,12 +8,6 @@ icon: globe
 
 # Temporadas
 
-## 🏰 Temporadas
-
-As temporadas representam diferentes capítulos da história da **Rede Lhama**.
-
-A cada nova temporada, o servidor poderá receber uma nova temática, sistemas, eventos, desafios e experiências, criando uma nova jornada para toda a comunidade.
-
 {% hint style="info" %}
 Cada temporada possui uma página própria com informações sobre sua temática, período, acontecimentos, novidades e muito mais.
 {% endhint %}
@@ -26,7 +20,7 @@ Acompanhe todos os capítulos da Rede Lhama e veja como o servidor evolui ao lon
 
 O período de preparação que antecede uma nova temporada.
 
-#### &#x20; <i class="fa-castle">:castle:</i> [Temporada I · Medieval](medieval.md)
+#### <i class="fa-castle">:castle:</i> [Temporada I · Medieval](medieval.md)
 
 O primeiro capítulo oficial da Rede Lhama.
 
