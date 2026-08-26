@@ -5,21 +5,9 @@ description: >-
 icon: triangle-exclamation
 ---
 
-# Clients e Mods Permitidos
+# Mods e Launchers/Clients Permitidos
 
 > A utilização de qualquer modificação não listada nesta página não significa que ela esteja automaticamente permitida. Em caso de dúvida, consulte a equipe antes de utilizar.
-
-### Launchers e Clients Permitidos
-
-| Client                 |
-| ---------------------- |
-| **Minecraft + Fabric** |
-| **Minecraft + Forge**  |
-| **Lunar Client**       |
-| **Feather Launcher**   |
-| **LabyMod**            |
-| **Badlion Client**     |
-| **Salwyrr Client**     |
 
 ### Mods Permitidos
 
@@ -80,6 +68,33 @@ Os mods abaixo são permitidos desde que utilizados exclusivamente dentro das fu
 | **Eating Animation**         | N/a                                             |
 | **Visuality**                | N/a                                             |
 | **Held Item Info**           | N/a                                             |
+
+### Launchers e Clients Permitidos
+
+| Client/Launcher         |
+| ----------------------- |
+| **Minecraft Launcher**  |
+| **Lunar Client**        |
+| **Badlion Client**      |
+| **Feather Client**      |
+| **LabyMod**             |
+| **TLauncher**           |
+| **Prism Launcher**      |
+| **Modrinth App**        |
+| **CurseForge Launcher** |
+| **ATLauncher**          |
+| **Salwyrr Client**      |
+| **SKLauncher**          |
+| **Titan Launcher**      |
+| **Legacy Launcher**     |
+| **HMCL**                |
+| **MultiMC**             |
+| **PolyMC**              |
+| **GDLauncher**          |
+| **Fjord Launcher**      |
+| **Void Launcher**       |
+| **Technic Launcher**    |
+| **Modrinth Launcher**   |
 
 ### AutoClick
 

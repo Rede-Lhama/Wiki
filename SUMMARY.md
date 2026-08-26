@@ -4,7 +4,7 @@
 
 * [Início](README.md)
 * [Regras](importante/regras.md)
-* [Clients e Mods Permitidos](importante/clients-e-mods-permitidos.md)
+* [Mods e Launchers/Clients Permitidos](importante/mods-e-clients.md)
 * [Contas](importante/contas.md)
 * [Screenshare](importante/screenshare.md)
 

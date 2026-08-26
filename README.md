@@ -17,7 +17,7 @@ Se você acabou de chegar à Rede Lhama, recomendamos explorar esta Wiki antes d
 
 <a href="importante/regras.md" class="button secondary" data-icon="book-bookmark">Regras</a>
 
-<a href="importante/clients-e-mods-permitidos.md" class="button secondary" data-icon="triangle-exclamation">Clients e Mods Permitidos</a>
+<a href="importante/mods-e-clients.md" class="button secondary" data-icon="triangle-exclamation">Clients e Mods Permitidos</a>
 
 <a href="outros/discord.md" class="button secondary" data-icon="discord">Discord</a>
 
