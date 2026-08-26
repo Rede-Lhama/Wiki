@@ -25,27 +25,29 @@ icon: triangle-exclamation
 
 Os mods abaixo são permitidos desde que utilizados exclusivamente dentro das funcionalidades autorizadas.
 
-| Mod                         |    Status   | Observações                             |
-| --------------------------- | :---------: | --------------------------------------- |
-| **OptiFine**                | ✅ Permitido | Otimização e recursos visuais           |
-| **OptiFabric**              | ✅ Permitido | Compatibilidade entre OptiFine e Fabric |
-| **Sodium**                  | ✅ Permitido | Otimização de desempenho                |
-| **Lithium**                 | ✅ Permitido | Otimização                              |
-| **CIT Resewn**              | ✅ Permitido | Recursos visuais                        |
-| **Entity Texture Features** | ✅ Permitido | Recursos visuais                        |
-| **Entity Model Features**   | ✅ Permitido | Recursos visuais                        |
-| **Fabric API**              | ✅ Permitido | Dependência para mods                   |
-| **BetterPvP**               | ✅ Permitido | Recursos auxiliares de PvP              |
-| **BetterF3**                | ✅ Permitido | Interface                               |
-| **Better Ping Display**     | ✅ Permitido | Exibição de ping                        |
-| **KronHUD**                 | ✅ Permitido | Interface                               |
-| **DarkKore**                | ✅ Permitido | Permitido                               |
-| **VoxelMap**                | ✅ Permitido | Mapa                                    |
-| **Litematica**              | ✅ Permitido | **Printer não é permitido**             |
-| **MaLiLib**                 | ✅ Permitido | Dependência                             |
-| **Mod Menu**                | ✅ Permitido | Interface                               |
-| **Bobby**                   | ✅ Permitido | Recursos de renderização                |
-| **HitDelayFix**             | ✅ Permitido | Permitido                               |
+| Mod                         | Observações                      |
+| --------------------------- | -------------------------------- |
+| **OptiFine**                | N/a                              |
+| **OptiFabric**              | N/a                              |
+| **Sodium**                  | N/a                              |
+| **Lithium**                 | N/a                              |
+| **CIT Resewn**              | N/a                              |
+| **Entity Texture Features** | N/a                              |
+| **Entity Model Features**   | N/a                              |
+| **Fabric API**              | N/a                              |
+| **BetterPvP**               | N/a                              |
+| **BetterF3**                | N/a                              |
+| **Better Ping Display**     | N/a                              |
+| **KronHUD**                 | N/a                              |
+| **DarkKore**                | N/a                              |
+| **VoxelMap**                | N/a                              |
+| **Litematica**              | Não é permitido utilizar Printer |
+| **MaLiLib**                 | N/a                              |
+| **Mod Menu**                | N/a                              |
+| **Bobby**                   | N/a                              |
+| **HitDelayFix**             | N/a                              |
+| **BetterTAB**               | N/a                              |
+| **BetterSearch**            | N/a                              |
 
 ### AutoClick
 
@@ -63,12 +65,12 @@ O limite de 14 CPS não autoriza a utilização de ferramentas que proporcionem 
 
 Os seguintes mods e ferramentas são proibidos dentro da Rede Lhama:
 
-| Mod / Ferramenta        |   Status   | Motivo                                   |
-| ----------------------- | :--------: | ---------------------------------------- |
-| **Walsky**              | ❌ Proibido | Vantagem indevida                        |
-| **Variações do Walsky** | ❌ Proibido | Vantagem indevida                        |
-| **Tweakeroo**           | ❌ Proibido | Recursos que podem proporcionar vantagem |
-| **Show Me Your Skin**   | ❌ Proibido | Funcionalidades não permitidas           |
+| Mod / Ferramenta        | Motivo                                   |
+| ----------------------- | ---------------------------------------- |
+| **Walsky**              | Vantagem indevida                        |
+| **Variações do Walsky** | Vantagem indevida                        |
+| **Tweakeroo**           | Recursos que podem proporcionar vantagem |
+| **Show Me Your Skin**   | Funcionalidades não permitidas           |
 
 ### Mods Não Listados
 
