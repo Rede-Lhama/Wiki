@@ -9,17 +9,17 @@ icon: triangle-exclamation
 
 > A utilização de qualquer modificação não listada nesta página não significa que ela esteja automaticamente permitida. Em caso de dúvida, consulte a equipe antes de utilizar.
 
-### Clients Permitidos
+### Launchers e Clients Permitidos
 
-| Client                 |    Status   |
-| ---------------------- | :---------: |
-| **Minecraft + Fabric** | ✅ Permitido |
-| **Minecraft + Forge**  | ✅ Permitido |
-| **Lunar Client**       | ✅ Permitido |
-| **Feather Launcher**   | ✅ Permitido |
-| **LabyMod**            | ✅ Permitido |
-| **Badlion Client**     | ✅ Permitido |
-| **Salwyrr Client**     | ✅ Permitido |
+| Client                 |
+| ---------------------- |
+| **Minecraft + Fabric** |
+| **Minecraft + Forge**  |
+| **Lunar Client**       |
+| **Feather Launcher**   |
+| **LabyMod**            |
+| **Badlion Client**     |
+| **Salwyrr Client**     |
 
 ### Mods Permitidos
 
