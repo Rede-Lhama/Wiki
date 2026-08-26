@@ -1,8 +1,7 @@
 ---
-icon: gear
+icon: gem
 ---
 
-# Problemas de Conexão
+# VIPs
 
 Página em desenvolvimento.
-

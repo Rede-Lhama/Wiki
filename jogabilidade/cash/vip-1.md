@@ -1,8 +1,7 @@
 ---
-icon: gear
+icon: key
 ---
 
-# Problemas de Conexão
+# Chaves
 
 Página em desenvolvimento.
-

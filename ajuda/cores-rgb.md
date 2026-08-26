@@ -4,4 +4,4 @@ icon: palette
 
 # Cores RGB
 
-Em desenvolvimento.
+Página em desenvolvimento.

@@ -11,7 +11,9 @@
 ## Jogabilidade
 
 * [Votos](jogabilidade/votos.md)
-* [Cash](jogabilidade/cash.md)
+* [Cash](jogabilidade/cash/README.md)
+  * [VIPs](jogabilidade/cash/vip.md)
+  * [Chaves](jogabilidade/cash/vip-1.md)
 * [Coins](jogabilidade/coins.md)
 * [Skills](jogabilidade/skills.md)
 * [Economia](jogabilidade/economia/README.md)
@@ -35,8 +37,8 @@
   * [Java](ajuda/entrar-no-servidor/java.md)
   * [Bedrock](ajuda/entrar-no-servidor/bedrock.md)
 * [Problemas de Conexão](ajuda/problemas-de-conexao.md)
-* [Fale Conosco](ajuda/fale-conosco.md)
 * [Cores RGB](ajuda/cores-rgb.md)
+* [Fale Conosco](ajuda/fale-conosco.md)
 
 ## Outros
 

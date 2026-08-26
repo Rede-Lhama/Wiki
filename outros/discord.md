@@ -9,4 +9,4 @@ icon: discord
 
 **Entre agora na comunidade:**
 
-#### <a href="https://discord.gg/WJw5E3NMym" class="button primary" data-icon="discord">Entrar no Discord</a>
+#### <a href="https://discord.gg/Eb48bCeY89" class="button primary" data-icon="discord">Entrar no Discord</a>

@@ -1,3 +1,3 @@
 # Bedrock
 
-pagina incompleta
+Página em desenvolvimento.

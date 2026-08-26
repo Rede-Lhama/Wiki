@@ -2,13 +2,11 @@
 description: >-
   A Screenshare é um procedimento de verificação realizado pela equipe da Rede
   Lhama quando houver suspeita de utilização de trapaças ou ferramentas que
-  proporcionem vantagens indevidas durante a jogabi
+  proporcionem vantagens indevidas.
 icon: chromecast
 ---
 
 # Screenshare
-
-
 
 Durante a partida, um membro da equipe com cargo de **Telador ou superior** poderá solicitar uma inspeção no computador do jogador.
 
