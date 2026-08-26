@@ -25,29 +25,61 @@ icon: triangle-exclamation
 
 Os mods abaixo são permitidos desde que utilizados exclusivamente dentro das funcionalidades autorizadas.
 
-| Mod                         | Observações                      |
-| --------------------------- | -------------------------------- |
-| **OptiFine**                | N/a                              |
-| **OptiFabric**              | N/a                              |
-| **Sodium**                  | N/a                              |
-| **Lithium**                 | N/a                              |
-| **CIT Resewn**              | N/a                              |
-| **Entity Texture Features** | N/a                              |
-| **Entity Model Features**   | N/a                              |
-| **Fabric API**              | N/a                              |
-| **BetterPvP**               | N/a                              |
-| **BetterF3**                | N/a                              |
-| **Better Ping Display**     | N/a                              |
-| **KronHUD**                 | N/a                              |
-| **DarkKore**                | N/a                              |
-| **VoxelMap**                | N/a                              |
-| **Litematica**              | Não é permitido utilizar Printer |
-| **MaLiLib**                 | N/a                              |
-| **Mod Menu**                | N/a                              |
-| **Bobby**                   | N/a                              |
-| **HitDelayFix**             | N/a                              |
-| **BetterTAB**               | N/a                              |
-| **BetterSearch**            | N/a                              |
+| Mod                          | Observações                                     |
+| ---------------------------- | ----------------------------------------------- |
+| **OptiFine**                 | N/a                                             |
+| **OptiFabric**               | N/a                                             |
+| **Sodium**                   | N/a                                             |
+| **Lithium**                  | N/a                                             |
+| **CIT Resewn**               | N/a                                             |
+| **Entity Texture Features**  | N/a                                             |
+| **Entity Model Features**    | N/a                                             |
+| **Fabric API**               | N/a                                             |
+| **BetterPvP**                | N/a                                             |
+| **BetterF3**                 | N/a                                             |
+| **Better Ping Display**      | N/a                                             |
+| **KronHUD**                  | N/a                                             |
+| **DarkKore**                 | N/a                                             |
+| **VoxelMap**                 | N/a                                             |
+| **Litematica**               | Não é permitido utilizar Printer                |
+| **MaLiLib**                  | N/a                                             |
+| **Mod Menu**                 | N/a                                             |
+| **Bobby**                    | N/a                                             |
+| **HitDelayFix**              | N/a                                             |
+| **BetterTAB**                | N/a                                             |
+| **BetterSearch**             | N/a                                             |
+| **Iris Shaders**             | Apenas shaders visuais                          |
+| **FerriteCore**              | N/a                                             |
+| **ImmediatelyFast**          | N/a                                             |
+| **EntityCulling**            | N/a                                             |
+| **MoreCulling**              | N/a                                             |
+| **Dynamic FPS**              | N/a                                             |
+| **FastQuit**                 | N/a                                             |
+| **Sodium Extra**             | N/a                                             |
+| **Reese's Sodium Options**   | N/a                                             |
+| **AppleSkin**                | N/a                                             |
+| **ShulkerBoxTooltip**        | N/a                                             |
+| **Mouse Tweaks**             | N/a                                             |
+| **Inventory Profiles Next**  | Permitido apenas para organização de inventário |
+| **Xaero's Minimap**          | N/a                                             |
+| **Xaero's World Map**        | N/a                                             |
+| **Zoomify**                  | N/a                                             |
+| **LambDynamicLights**        | N/a                                             |
+| **Continuity**               | N/a                                             |
+| **EMI**                      | N/a                                             |
+| **JEI**                      | N/a                                             |
+| **Jade**                     | N/a                                             |
+| **AppleSkin**                | N/a                                             |
+| **Legendary Tooltips**       | N/a                                             |
+| **Presence Footsteps**       | N/a                                             |
+| **Sound Physics Remastered** | N/a                                             |
+| **BetterF3**                 | N/a                                             |
+| **Chat Heads**               | N/a                                             |
+| **Not Enough Animations**    | N/a                                             |
+| **3D Skin Layers**           | N/a                                             |
+| **Eating Animation**         | N/a                                             |
+| **Visuality**                | N/a                                             |
+| **Held Item Info**           | N/a                                             |
 
 ### AutoClick
 
