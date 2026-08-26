@@ -69,6 +69,12 @@ Os mods abaixo são permitidos desde que utilizados exclusivamente dentro das fu
 | **Visuality**                | N/a                                             |
 | **Held Item Info**           | N/a                                             |
 
+{% hint style="danger" %}
+**A ausência de um mod nesta lista não significa que ele seja permitido.**
+
+Mods, clients, plugins ou ferramentas externas que proporcionem vantagens competitivas não autorizadas poderão resultar em punição, mesmo que não estejam especificamente mencionados nesta página.
+{% endhint %}
+
 ### Launchers e Clients Permitidos
 
 | Client/Launcher         |
@@ -108,37 +114,33 @@ Ultrapassar esse limite poderá resultar em punição.
 O limite de 14 CPS não autoriza a utilização de ferramentas que proporcionem outras vantagens indevidas. A equipe poderá analisar o comportamento do jogador e a ferramenta utilizada.
 {% endhint %}
 
-### Otimizadores e Mods Proibidos
+#### Mods e Clients Proibidos
 
-Os seguintes mods e ferramentas são proibidos dentro da Rede Lhama:
+Os seguintes mods e clients são proibidos dentro da Rede Lhama por apresentarem recursos que podem proporcionar vantagens indevidas, automatizar ações ou interferir na jogabilidade.
 
-| Mod / Ferramenta        | Motivo                                   |
-| ----------------------- | ---------------------------------------- |
-| **Walsky**              | Vantagem indevida                        |
-| **Variações do Walsky** | Vantagem indevida                        |
-| **Tweakeroo**           | Recursos que podem proporcionar vantagem |
-| **Show Me Your Skin**   | Funcionalidades não permitidas           |
-
-### Mods Não Listados
+| Mod / Client            | Motivo                                           |
+| ----------------------- | ------------------------------------------------ |
+| **Walsky**              | Vantagem indevida                                |
+| **Variações do Walsky** | Vantagem indevida                                |
+| **Tweakeroo**           | Recursos de automação e vantagem na jogabilidade |
+| **Show Me Your Skin**   | Funcionalidades não permitidas                   |
+| **Baritone**            | Automação de movimentação e ações                |
+| **Wurst**               | Recursos de trapaça                              |
+| **Meteor Client**       | Recursos de trapaça                              |
+| **LiquidBounce**        | Recursos de trapaça                              |
+| **BleachHack**          | Recursos de trapaça                              |
+| **Impact**              | Recursos de trapaça                              |
+| **Aristois**            | Recursos de trapaça                              |
+| **Vape**                | Recursos de trapaça e vantagem competitiva       |
+| **RusherHack**          | Recursos de trapaça                              |
+| **Future Client**       | Recursos de trapaça                              |
+| **Rise Client**         | Recursos de trapaça                              |
+| **Inertia Client**      | Recursos de trapaça                              |
+| **Sigma**               | Recursos de trapaça                              |
 
 {% hint style="danger" %}
-**A ausência de um mod nesta lista não significa que ele seja permitido.**
-
-Mods, clients, plugins ou ferramentas externas que proporcionem vantagens competitivas não autorizadas poderão resultar em punição, mesmo que não estejam especificamente mencionados nesta página.
+A ausência de um **mod ou client** nesta lista não significa que sua utilização seja permitida. Mods, clients ou funcionalidades que ofereçam vantagens indevidas, automatizem ações ou interfiram na jogabilidade poderão ser considerados proibidos pela equipe.
 {% endhint %}
-
-São especialmente proibidas modificações que ofereçam vantagens relacionadas a:
-
-* Distância de ataque
-* Voo
-* Combate automático
-* Mira automática
-* Visualização de jogadores invisíveis
-* Alteração ou manipulação de hitboxes
-* Detecção de jogadores ou entidades de maneira indevida
-* Automação de ações
-* Manipulação de informações que normalmente não estariam disponíveis ao jogador
-* Qualquer outra vantagem competitiva desleal
 
 ### Atualização da Lista
 
