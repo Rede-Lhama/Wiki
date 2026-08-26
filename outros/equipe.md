@@ -81,7 +81,7 @@ O **Desenvolvedor** é responsável pela criação, manutenção e evolução do
 
 **Lista de Desenvolvedores**
 
-* <img src="https://i.ibb.co/GbHBchH/image.png" alt="" data-size="line"> **XFlixXz\_**
+* **N/a**
 
 ### Administrador
 
@@ -128,7 +128,7 @@ O **Construtor** é responsável pelo desenvolvimento e manutenção das constru
 
 **Lista de Construtores**
 
-* **N/a**
+* <img src="https://i.ibb.co/GbHBchH/image.png" alt="" data-size="line"> **XFlixXz\_**
 
 ### Ajudante
 
