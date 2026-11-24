@@ -1,0 +1,139 @@
+{
+  "theme": "maple",
+  "name": "Rede Lhama Wiki",
+  "colors": {
+    "primary": "#F0AA46",
+    "light": "#F0AA46",
+    "dark": "#CC8219"
+  },
+  "logo": {
+    "light": "/images/logo-rede-lhama.png",
+    "dark": "/images/logo-rede-lhama.png"
+  },
+  "favicon": {
+    "light": "/images/logo-rede-lhama.png",
+    "dark": "/images/logo-rede-lhama.png"
+  },
+  "appearance": {
+    "default": "dark"
+  },
+  "background": {
+    "decoration": "gradient",
+    "color": {
+      "dark": "#212120"
+    }
+  },
+  "fonts": {
+    "heading": {
+      "family": "Montserrat",
+      "weight": 800
+    },
+    "body": {
+      "family": "Albert Sans",
+      "weight": 400
+    }
+  },
+  "styling": {
+    "codeblocks": "system"
+  },
+  "banner": {
+    "content": "Site na Versão Alpha",
+    "dismissible": true,
+    "type": "warning"
+  },
+  "thumbnails": {
+    "preset": "classic"
+  },
+  "interaction": {
+    "drilldown": false
+  },
+  "navigation": {
+    "languages": [
+      {
+        "language": "pt-BR",
+        "default": true,
+        "groups": [
+          {
+            "group": "Importante",
+            "pages": [
+              "index",
+              "importante/regras",
+              "importante/mods-e-clients",
+              "importante/contas",
+              "importante/screenshare"
+            ]
+          },
+          {
+            "group": "Jogabilidade",
+            "pages": [
+              "jogabilidade/votos",
+              {
+                "group": "Cash",
+                "root": "jogabilidade/cash/index",
+                "pages": [
+                  "jogabilidade/cash/vip",
+                  "jogabilidade/cash/vip-1"
+                ]
+              },
+              "jogabilidade/coins",
+              "jogabilidade/skills",
+              {
+                "group": "Economia",
+                "root": "jogabilidade/economia/index",
+                "pages": [
+                  "jogabilidade/economia/pshops",
+                  "jogabilidade/economia/loja",
+                  "jogabilidade/economia/mercado"
+                ]
+              },
+              "jogabilidade/eventos",
+              "jogabilidade/torneios",
+              "jogabilidade/itens-personalizados",
+              {
+                "group": "Clãs",
+                "root": "jogabilidade/clas/index",
+                "pages": [
+                  "jogabilidade/clas/liga-de-clas",
+                  "jogabilidade/clas/punicoes"
+                ]
+              },
+              {
+                "group": "Temporadas",
+                "root": "jogabilidade/temporadas/index",
+                "pages": [
+                  "jogabilidade/temporadas/pre-temporada",
+                  "jogabilidade/temporadas/medieval"
+                ]
+              },
+              "jogabilidade/anti-cheat"
+            ]
+          },
+          {
+            "group": "Ajuda",
+            "pages": [
+              {
+                "group": "Entrar no servidor",
+                "root": "ajuda/entrar-no-servidor/index",
+                "pages": [
+                  "ajuda/entrar-no-servidor/java",
+                  "ajuda/entrar-no-servidor/bedrock"
+                ]
+              },
+              "ajuda/problemas-de-conexao",
+              "ajuda/cores-rgb",
+              "ajuda/fale-conosco"
+            ]
+          },
+          {
+            "group": "Outros",
+            "pages": [
+              "outros/equipe",
+              "outros/faca-parte-da-equipe",
+              "outros/discord"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
