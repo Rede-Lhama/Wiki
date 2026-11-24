@@ -1,0 +1,26 @@
+/* Rede Lhama Wiki */
+img.nav-logo {
+  height: 70px !important;
+  width: 66px !important;
+  max-width: none !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+
+a:has(img.nav-logo) {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0 !important;
+}
+
+a:has(img.nav-logo)::after {
+  content: "Wiki";
+  color: #F0AA46;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 1.6rem;
+  line-height: 1;
+  white-space: nowrap;
+  margin-left: 0.4rem;
+}
